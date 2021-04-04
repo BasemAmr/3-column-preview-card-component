@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    /* Define the Grid layout */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 30rem;
+    /* Adding some space around the wrapper */
+    margin: 10%;
+    /* Editing the width of the wrapper to fit on the screen */
+    width: 80%;
+}
+
+.wrapper > div {
+    /* Adding some style to complete layout */
+    background-color: #CCC;
+    border: 1px solid #AAA;
+}
+
+/* Start styling card (item) 1 */
+
+
+
+
+
+
+
+
+
+
+
+/* Muliple-used classes */
+
